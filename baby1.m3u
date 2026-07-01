@@ -1,0 +1,361 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepXD.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY XD HD [EAST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858763&extension=ts&play_token=TyAycJc0RS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepXD.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DINSEY XD HD [WEST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858762&extension=ts&play_token=wSjGqDLSK3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/disnep.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY CHANNEL HD [EAST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858767&extension=ts&play_token=CaCPrO5pqr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/disnep.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY CHANNEL HD [WEST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858766&extension=ts&play_token=PuvuVgRfw5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepJunior.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY JUNIOR HD [EAST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858765&extension=ts&play_token=rdfQHxQp01
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/DisnepJunior.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ DISNEY JUNIOR HD [WEST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858764&extension=ts&play_token=3SDWFDE7F8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nickelodeon1.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICKELODEON HD [EAST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858759&extension=ts&play_token=Gz3ZOfpBLJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nickelodeon1.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICKELODEON HD [WEST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858758&extension=ts&play_token=4frokH4rmX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nicjr.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICK.JR HD [EAST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858761&extension=ts&play_token=MtlmqXBqSh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nicjr.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICK.JR. HD [WEST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858760&extension=ts&play_token=AJul8G0gKr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nictoons.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICK TOONS HD [EAST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858757&extension=ts&play_token=BEdBBZ0vd3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/nictoons.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ NICK TOONS HD [WEST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858756&extension=ts&play_token=XGYh7llFv0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Teennick.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ TEEN NICK HD [EAST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858755&extension=ts&play_token=EGNgHAho9W
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Teennick.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ TEEN NICK HD [WEST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858754&extension=ts&play_token=WyXq9tZ5Tf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/cartoon network.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ CARTOON NETWORK HD [EAST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858769&extension=ts&play_token=WkH92nzM53
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/cartoon network.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ CARTOON NETWORK HD [WEST]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858768&extension=ts&play_token=PacHDE93Y5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Boomerang.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ BOOMERANG HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858770&extension=ts&play_token=db4gdqn5ZH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Baby%20tv.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ BABY TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858750&extension=ts&play_token=JCYkdf4RB2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/baby%20first.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ BABY FIRST HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858771&extension=ts&play_token=sBRqMYbcOn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MeTVToons.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ METV TOONS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858772&extension=ts&play_token=Z2s7qfDLPI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Universalkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ UNIVERSAL KIDS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858752&extension=ts&play_token=ZC18QK9bEy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/PBSKids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PBS KIDS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858753&extension=ts&play_token=9RmlhbjBmJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ 123 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858749&extension=ts&play_token=7vLwTBaLIB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ ABC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858748&extension=ts&play_token=1lT6AQDFWZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ ALVINN CHIPMUNKS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858747&extension=ts&play_token=t2ZTTAWQXW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ ANGRY BIRDS BLUE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858746&extension=ts&play_token=PzMlwKxMyI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ ANGRY BIRDS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858745&extension=ts&play_token=hkBP1oBKeW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ BABY SHARK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858744&extension=ts&play_token=0Lq0YFl3oI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ BABY TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858743&extension=ts&play_token=TIb1aqqKgn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ BLIPPI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858742&extension=ts&play_token=MTNmUann95
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ BLOOPIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858741&extension=ts&play_token=yFyIh4UZQT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ BLUEY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858740&extension=ts&play_token=4yyYP4tRao
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ BOB THE BUILDER HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858739&extension=ts&play_token=H8jBhjNsZD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ BOSS BABY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858738&extension=ts&play_token=Rs1eMlQwPQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ CLOUD BABIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858737&extension=ts&play_token=YuTukkP8UK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ COCOMELON HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858736&extension=ts&play_token=Y295e7gQGe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ CUP HEAD SHOW HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858735&extension=ts&play_token=BP42hG8dFx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ CURIOUS GEORGE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858734&extension=ts&play_token=3QtUCRd2E6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ DIANA SHOW HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858733&extension=ts&play_token=Emx5DlzPT6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ FIREMAN SAM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858732&extension=ts&play_token=yziDZPd1iv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ GARFIELD SHOW HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858731&extension=ts&play_token=OWLzD0nTUk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ GECKO'S GARAGE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858730&extension=ts&play_token=3iObfXontU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ GO DO GO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858729&extension=ts&play_token=msXBlTWaxM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ GRIZZY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858728&extension=ts&play_token=thDjn9t7NA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ LARVA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858727&extension=ts&play_token=V3ZA0BnRmS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ LITTLE PONY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858726&extension=ts&play_token=79kEQuef61
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ MASHA & BEAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858725&extension=ts&play_token=JHSmxhLNKY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ MICKEY MOUSE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858724&extension=ts&play_token=pYtND1tOIk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ MIGHT LITTLE BHEEM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858723&extension=ts&play_token=IYtsrab8A1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ MR.BEAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858722&extension=ts&play_token=mHTf4gLnUj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ NASTYA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858721&extension=ts&play_token=pjCk4W0oLJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ ODDBODS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858720&extension=ts&play_token=OC2P24ZKcD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ OGGY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858719&extension=ts&play_token=V2G7cTnf4D
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ OMAR & HANA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858718&extension=ts&play_token=89qhi94ChX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ PAW PATROL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858717&extension=ts&play_token=gvIRKEI9yF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ PEPPA PIG HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858716&extension=ts&play_token=5wdkiIKUNt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ PETS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858715&extension=ts&play_token=hvE1yTy2aw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ PINK PANTHER HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858714&extension=ts&play_token=PIy8XRUGpF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ PJ MASKS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858713&extension=ts&play_token=ST3zve1afx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ PROPHET STORIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858712&extension=ts&play_token=BNWpEMk043
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ PUCCA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858711&extension=ts&play_token=zRbWTN4jqG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ SHARKDOG HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858710&extension=ts&play_token=3Y3F5caPua
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ SHAUN THE SHEEP HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858708&extension=ts&play_token=X3lgtQuTD8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ SONIC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858707&extension=ts&play_token=7cj8hgDJ3M
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ SPIDEY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858706&extension=ts&play_token=vB6WggUL5y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ SPONGEBOB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858705&extension=ts&play_token=YwwRjwuP7b
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ SUPER WIGNS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858704&extension=ts&play_token=eUHlyltN1M
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ TOM & JERRY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858703&extension=ts&play_token=5efOkfI7aW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ VLAD & NIKI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858702&extension=ts&play_token=a3iNQ8Oe1G
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ VLAD-CHALLENGE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858701&extension=ts&play_token=jMA5X7fT0H
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ WOLFO HDW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858700&extension=ts&play_token=AFJZFk3Cti
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png" group-title="┃USA┃ KIDS | BABY",┃USA┃ PLAY KIDZ ZIG SHARKO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://main.light-ott.net:80/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:CB:8B:23; stb_lang=en; timezone=GMT
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3ACB%3A8B%3A23&stream=858699&extension=ts&play_token=ekjLFNcCbe
