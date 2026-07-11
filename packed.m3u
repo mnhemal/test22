@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1,Stream 1
+https://cp11.adabmedia.com/hls2/sport.m3u8
+
+#EXTINF:-1,Stream 2
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1,Stream 3
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Stream 4
+http://114.130.57.233:8080/PTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1,Stream 5
+https://iptv.ryvoxtb.workers.dev/live/T_Sports.m3u8?token=77adf0c1dc5c842de5e6dcacd4092be4&time=1783750394
+
+#EXTINF:-1,Stream 6
+http://114.130.57.233:8080/TsportHD/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1,Stream 7
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Stream 8
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Stream 9
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8?nimblesessionid=86012249
+
+#EXTINF:-1,Stream 10
+http://114.130.57.233:8080/BTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1,Stream 11
+http://103.165.93.31:8095/tsports/video.m3u8
+
+#EXTINF:-1,Stream 12
+http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
